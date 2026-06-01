@@ -2,3 +2,4 @@ This one to test the pipeline
 adding one more line 
 adding 2 lines
 adding 4th line to test all
+to test master and slave
